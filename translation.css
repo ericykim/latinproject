@@ -1,0 +1,16 @@
+
+body { 
+  background: url(rome.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.navbar {
+	margin-bottom: 0px;
+	padding-top: 0px;
+}
+.wrapper {
+	margin-top: 40px ;
+	margin-bottom: 40px;
+}
